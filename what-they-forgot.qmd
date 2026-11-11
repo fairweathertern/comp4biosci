@@ -11,7 +11,7 @@ status("polishing")
 ## Why "What they forgot"?
 
 This chapter tries to teach the computer skills that you might have missed if
-most of your experience has been with phoines and tablets. I focus on the
+most of your experience has been with phones and tablets. I focus on the
 knowledge gaps that often appear when people are learning computational data
 analysis. Primarily these are to do with finding and organising their files and
 folders in the file systems.
